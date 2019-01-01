@@ -1,0 +1,7 @@
+{
+    "ext": "ts",
+    "exec": "npm start",
+    "env": {
+        "DEBUG": "app,app:*"
+    }
+}
